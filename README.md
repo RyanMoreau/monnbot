@@ -19,8 +19,3 @@ Monnbot comes with a range of commands that make it easy to manage your trades a
 - `sellpu`: Sells the spread of PERP/USD pairs.
 - `selluf`: Sells the spread of USD/FUT pairs.
 - `spread`: Spread Scalper when there's a lot of volatility.
-
-## License
-
-Monnbot is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-Why MonnBot? My Discord handle is Monnicore, so I named it after that :P 
