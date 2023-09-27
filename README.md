@@ -30,16 +30,17 @@ Monnbot comes with a range of commands that make it easy to manage your trades a
 
 **Discord Alert System**
 
-![Screenshot 2023-09-27 at 3 24 18 PM](https://github.com/RyanMoreau/monnbot/assets/3619317/586f484d-5f17-4d41-a221-85313291930b)
+![Screenshot 2023-09-27 at 3 24 18 PM](https://github.com/RyanMoreau/monnbot/assets/3619317/18a23780-03f5-4f47-985e-e2c33c47c3a0)
 
 **Dashboard View**
 
-![dashboard](https://github.com/RyanMoreau/monnbot/assets/3619317/35495753-4864-4a85-9c85-4955420f1904)
+![dashboard](https://github.com/RyanMoreau/monnbot/assets/3619317/28f30a0e-e3b0-4dc5-81dd-73b98f5f2cf5)
 
 **Charting A Spread**
 
-![spread](https://github.com/RyanMoreau/monnbot/assets/3619317/3accb756-fc92-450a-86eb-b6cd98d2ed29)
+![spread](https://github.com/RyanMoreau/monnbot/assets/3619317/d2998a3a-fb39-4f8d-90a5-569dd5af047c)
 
 **CLI View**
-![CLI_view](https://github.com/RyanMoreau/monnbot/assets/3619317/c489ad83-21b2-4df0-932f-040fe9237a15)
+
+![CLI_view](https://github.com/RyanMoreau/monnbot/assets/3619317/360a5961-d8d2-4124-9635-a20614a38f3c)
 
