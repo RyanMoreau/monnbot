@@ -1,0 +1,15 @@
+*-debug.log
+*-error.log
+/.nyc_output
+/dist
+/tmp
+/yarn.lock
+node_modules
+/src/utils/keys.json
+
+
+
+# Code Versions
+/src/commands/arb.js
+/src/commands/getbooks.js
+/src/commands/test.js
