@@ -1,8 +1,14 @@
 # MonnBot
 
-Monnbot is a command-line interface for trading on Binance and FTX. It was designed to make it easy to manage my trades and monitor spreads from the command line. However, due to the falling out of FTX, this CLI is no longer functional.
+Monnbot is a command-line interface for trading on Binance and FTX. It was designed to make it easy to manage my trades and monitor spreads from the command line. However, due to the falling out of FTX, this CLI is no longer functional. I also had a dashboard which provided me quick insights on each pair and both the spread and funding rate, as well as a section that provided great cash and carry opportunities. 
 
-I have decided to open source this project so that others can learn from it and build their own trading systems using [OCLIF](https://oclif.io/). One of the biggest lessons I learned was the importance of Casino Model, and how having multiple orders over a longer period of time can help you execute your preferred spread range.
+I have decided to open source this project so that others can learn from it and build their own trading systems using [OCLIF](https://oclif.io/). One of the biggest lessons I learned was the importance of Casino Model, and how having multiple orders over a longer period of time can help you execute your preferred range.
+
+## What is the goal of trading spreads?
+
+In crypto markets, there's a concept of Funding Rates. A crypto funding rate is a small percentage of your position's value that you pay to (or receive from) traders on the other side of the trade. Generally, shorts pay longs if the trend is up, and longs pay shorts if the trend is down. Most exchanges use funding rate payment intervals of 1, 4, or 8 hours. 
+
+Having the ability to hedge yourself (with Monnbot) and taking the opposite side of the trade was quite literally the definition of passive income. That, and the ability to make a 0.2% gain from a spread (when leveraged 10x that's 2%) was a great, albeit highly degen way of making a pretty consistent return.
 
 ## Commands
 
