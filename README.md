@@ -26,6 +26,8 @@ Monnbot comes with a range of commands that make it easy to manage your trades a
 - `selluf`: Sells the spread of USD/FUT pairs.
 - `spread`: Spread Scalper when there's a lot of volatility.
 
+## Archived Screengrabs
+
 **Discord Alert System**
 ![Screenshot 2023-09-27 at 3 24 18 PM](https://github.com/RyanMoreau/monnbot/assets/3619317/586f484d-5f17-4d41-a221-85313291930b)
 
