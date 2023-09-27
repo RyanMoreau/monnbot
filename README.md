@@ -1,6 +1,6 @@
 # MonnBot
 
-Monnbot (Catch me on Discord as Monnicore) is a command-line interface for trading on Binance and FTX. It was designed to make it easy to manage my trades and monitor spreads from the command line. However, due to the falling out of FTX, this CLI is no longer functional.
+Monnbot is a command-line interface for trading on Binance and FTX. It was designed to make it easy to manage my trades and monitor spreads from the command line. However, due to the falling out of FTX, this CLI is no longer functional.
 
 I have decided to open source this project so that others can learn from it and build their own trading systems using [OCLIF](https://oclif.io/). One of the biggest lessons I learned was the importance of Casino Model, and how having multiple orders over a longer period of time can help you execute your preferred spread range.
 
@@ -23,3 +23,4 @@ Monnbot comes with a range of commands that make it easy to manage your trades a
 ## License
 
 Monnbot is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Why MonnBot? My Discord handle is Monnicore, so I named it after that :P 
