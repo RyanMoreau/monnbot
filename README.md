@@ -1,6 +1,6 @@
 # MonnBot
 
-Monnbot is a command-line interface for trading on Binance and FTX. It was designed to make it easy to manage my trades and monitor spreads from the command line. However, due to the falling out of FTX, this CLI is no longer functional. I also had a dashboard which provided me quick insights on each pair and both the spread and funding rate, as well as a section that provided great cash and carry opportunities. 
+Monnbot is a command-line interface for trading on Binance and FTX. It was designed to make it easy to manage my trades and monitor spreads from the command line. However, due to the falling out of FTX, this CLI is no longer functional. I also had a (dashboard)[https://github.com/RyanMoreau/monnbot-dashboard] which provided me quick insights on each pair and both the spread and funding rate, as well as a section that provided great cash and carry opportunities. 
 
 I have decided to open source this project so that others can learn from it and build their own trading systems using [OCLIF](https://oclif.io/). One of the biggest lessons I learned was the importance of Casino Model, and how having multiple orders over a longer period of time can help you execute your preferred range.
 
@@ -39,8 +39,14 @@ Monnbot comes with a range of commands that make it easy to manage your trades a
 **Charting A Spread**
 
 ![spread](https://github.com/RyanMoreau/monnbot/assets/3619317/d2998a3a-fb39-4f8d-90a5-569dd5af047c)
+![monnbot13](https://github.com/RyanMoreau/monnbot/assets/3619317/66235de1-9380-4d01-ae97-349d21b598e3)
 
 **CLI View**
 
 ![CLI_view](https://github.com/RyanMoreau/monnbot/assets/3619317/360a5961-d8d2-4124-9635-a20614a38f3c)
+![monnbot4](https://github.com/RyanMoreau/monnbot/assets/3619317/d1095baa-7f66-4af9-9064-a1be11282fa0)
+
+**Pairs Arb**
+
+![monnbot12](https://github.com/RyanMoreau/monnbot/assets/3619317/c35bbe44-b8db-4ea5-b673-d92640a29060)
 
