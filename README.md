@@ -1,6 +1,6 @@
 # MonnBot
 
-Monnbot is a command-line interface for trading on Binance and FTX. It was designed to make it easy to manage my trades and monitor spreads from the command line. However, due to the falling out of FTX, this CLI is no longer functional. I also had a [dashboard](https://github.com/RyanMoreau/monnbot-dashboard) which provided me quick insights on each pair and both the spread and funding rate, as well as a section that provided great cash and carry opportunities. 
+Monnbot is a command-line interface for trading on Binance and FTX. It was designed to make it easy to manage my trades and monitor spreads from the command line. However, due to the falling out of FTX, this CLI is no longer functional. I also had a [dashboard](https://github.com/RyanMoreau/monnbot-dashboard) and [server](https://github.com/RyanMoreau/monnbot-server) which provided me quick insights on each pair and both the spread and funding rate, as well as a section that provided great cash and carry opportunities. 
 
 I have decided to open source this project so that others can learn from it and build their own trading systems using [OCLIF](https://oclif.io/). One of the biggest lessons I learned was the importance of Casino Model, and how having multiple orders over a longer period of time can help you execute your preferred range.
 
